@@ -1,0 +1,15 @@
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\bin\Debug\net9.0\Binary_Search.exe
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\bin\Debug\net9.0\Binary_Search.deps.json
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\bin\Debug\net9.0\Binary_Search.runtimeconfig.json
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\bin\Debug\net9.0\Binary_Search.dll
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\bin\Debug\net9.0\Binary_Search.pdb
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\obj\Debug\net9.0\Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\obj\Debug\net9.0\Binary_Search.AssemblyInfoInputs.cache
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\obj\Debug\net9.0\Binary_Search.AssemblyInfo.cs
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\obj\Debug\net9.0\Binary_Search.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\obj\Debug\net9.0\Binary_Search.sourcelink.json
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\obj\Debug\net9.0\Binary_Search.dll
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\obj\Debug\net9.0\refint\Binary_Search.dll
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\obj\Debug\net9.0\Binary_Search.pdb
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\obj\Debug\net9.0\Binary_Search.genruntimeconfig.cache
+D:\GitHub Repos\Aligorithm_And_Problem_Solving_Level_6\Binary_Search\obj\Debug\net9.0\ref\Binary_Search.dll
